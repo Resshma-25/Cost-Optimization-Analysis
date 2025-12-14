@@ -1,0 +1,9 @@
+Product,Department,Cost,Year
+ Server A,IT,60000,2023
+Server B,IT,55000,2023
+Chair,HR,8000,2023
+Table,HR,12000,2023
+Router,Networking,30000,2023
+Switch,Networking,28000,2023
+Monitor,IT,15000,2023
+Laptop,IT,70000,2023
