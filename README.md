@@ -5,7 +5,7 @@
 Cost optimization is a critical business function that helps organizations improve efficiency and profitability.
 This project analyzes product-wise and department-wise cost data to identify high-cost areas and optimization opportunities using Python and data analysis techniques.
 
-The analysis is designed to simulate IBM Systems / Hardware cost scenarios and demonstrate data-driven decision making.
+The analysis is designed to simulate Systems / Hardware cost scenarios and demonstrate data-driven decision making.
 
 **Project Objectives**
 
@@ -135,7 +135,7 @@ Jupyter Notebook
  **Conclusion**
 
 This project highlights the application of data science in cost optimization, combining technical analysis with business insights.
-It aligns with IBM’s focus on data-driven decision making, cost efficiency, and cross-functional collaboration.
+It aligns with  focus on data-driven decision making, cost efficiency, and cross-functional collaboration.
 
 
 
